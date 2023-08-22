@@ -14,3 +14,4 @@
 # #Question No 6:
 ![Q6 average](https://github.com/daniakhan123/PfFall23/assets/142868029/13d7efe6-6e7a-47df-aad2-2eb5149d386d)
 ##Question No 7:
+![Q7 maths](https://github.com/daniakhan123/PfFall23/assets/142868029/8faff77e-a3f9-4a19-bd5c-246d4982bc8a)
