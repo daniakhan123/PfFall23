@@ -1,2 +1,0 @@
-# Dania Khan
-## studentId
