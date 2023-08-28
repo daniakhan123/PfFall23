@@ -7,6 +7,6 @@
 ### Question no 3:
 ![Q3](https://github.com/daniakhan123/PfFall23/assets/142868029/b3332107-118c-4504-8fdd-af1a9dc3d7d6)
 ### Question no 4:
-![Q4](https://github.com/daniakhan123/PfFall23/assets/142868029/3501bcf2-de48-473d-b613-1f298858a10e)
+![Q4 (2)](https://github.com/daniakhan123/PfFall23/assets/142868029/3b5d7003-9f00-4235-9801-0ead9f34f4dd)
 ### Question no 5:
 ![Q5](https://github.com/daniakhan123/PfFall23/assets/142868029/2e01f1a0-cd70-40cb-9db1-8af5a4db25c1)
