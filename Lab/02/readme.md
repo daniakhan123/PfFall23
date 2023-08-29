@@ -1,7 +1,7 @@
 # Name Dania Khan
 # Roll number 23k_0072
 ## Qno.1
-![Capture1](https://github.com/daniakhan123/PfFall23/assets/142868029/1ab7c657-22f8-41fd-9a1d-0e6c24ad7e6c)
+![qno1](https://github.com/daniakhan123/PfFall23/assets/142868029/b4309053-24da-40bf-a465-869c41d0fe58)
 ## Qno.2
 ![Capture2](https://github.com/daniakhan123/PfFall23/assets/142868029/49dd8993-d737-49bb-84a2-9a530231b469)
 ## Qno.3
@@ -13,4 +13,7 @@
 ## Qno.6
 ![Capture 6](https://github.com/daniakhan123/PfFall23/assets/142868029/962b1c25-5d58-4794-a211-4b17a093149d)
 ## Qno.7
-![Capture 7](https://github.com/daniakhan123/PfFall23/assets/142868029/ff51f794-56e6-402b-a612-da5f80bbce7b)
+![Qno7](https://github.com/daniakhan123/PfFall23/assets/142868029/2a9adbe2-3939-4e5c-9eb4-edda6dc69a8d)
+
+
+
