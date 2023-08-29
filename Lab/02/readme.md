@@ -3,7 +3,7 @@
 ## Qno.1
 ![qno1](https://github.com/daniakhan123/PfFall23/assets/142868029/b4309053-24da-40bf-a465-869c41d0fe58)
 ## Qno.2
-![Capture2](https://github.com/daniakhan123/PfFall23/assets/142868029/49dd8993-d737-49bb-84a2-9a530231b469)
+![qno2](https://github.com/daniakhan123/PfFall23/assets/142868029/524a0ede-cf8b-4588-83c2-4267f6d73c84)
 ## Qno.3
 ![Capture 3](https://github.com/daniakhan123/PfFall23/assets/142868029/1182d2e0-8961-42df-9135-fe623fd7374c)
 ## Qno.4
