@@ -13,8 +13,7 @@
 ### Question no 6:
 ![qno6](https://github.com/daniakhan123/PfFall23/assets/142868029/8a98f36b-d595-4c98-8889-813a8d4967ed)
 ### Question no 7:
-![Uploading Q7.jpg…]()
-
+![Q7](https://github.com/daniakhan123/PfFall23/assets/142868029/098363e6-aa73-4e25-b23e-d61087992c70)
 ### Question no 8:
 ![qno8](https://github.com/daniakhan123/PfFall23/assets/142868029/7f404876-b06e-4a9d-8f79-2ff7fdd7213c)
 ### Question no 9:
