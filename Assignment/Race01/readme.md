@@ -10,3 +10,14 @@
 ![Q4 (2)](https://github.com/daniakhan123/PfFall23/assets/142868029/3b5d7003-9f00-4235-9801-0ead9f34f4dd)
 ### Question no 5:
 ![Q5](https://github.com/daniakhan123/PfFall23/assets/142868029/2e01f1a0-cd70-40cb-9db1-8af5a4db25c1)
+### Question no 6:
+![qno6](https://github.com/daniakhan123/PfFall23/assets/142868029/8a98f36b-d595-4c98-8889-813a8d4967ed)
+### Question no 7:
+![Uploading Q7.jpg…]()
+
+### Question no 8:
+![qno8](https://github.com/daniakhan123/PfFall23/assets/142868029/7f404876-b06e-4a9d-8f79-2ff7fdd7213c)
+### Question no 9:
+![qno9](https://github.com/daniakhan123/PfFall23/assets/142868029/358171f9-4455-425d-8b02-fcc864ba7e11)
+### Question no 10:
+![qno10](https://github.com/daniakhan123/PfFall23/assets/142868029/4af04552-472a-4864-b59c-cb6576698e7b)
