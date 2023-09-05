@@ -1,2 +1,2 @@
-### name:dania khan
-### roll number: 23k-0072
+### Name: Dania khan
+### Roll number: 23k-0072
