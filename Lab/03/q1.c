@@ -10,7 +10,7 @@ int main (){
 	scanf("%d",&num2);
 	
 	printf("enter any operator +,-,*,/ :");
-	scanf("%c",&op);
+	scanf(" %c",&op);
 	
 	if( op == '+'){
 		printf("addition of a numbers is : %d",num1+num2);
