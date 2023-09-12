@@ -5,7 +5,7 @@ int main(){
 	scanf("%d",&n);
 	
 	int i=0;
-	while(i<=n){
+	while(i<n){
 	int j=0;
 	  while(j<=i){
 	     printf("*");
