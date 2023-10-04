@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
 	
-	int arr[100],size;
-	int i;
+	int arr[100],size,i;
+	
 	printf("enter size of array :");
 	scanf("%d",&size);
 	 for(i=1;i<=size;i++){
