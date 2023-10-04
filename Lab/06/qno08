@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main(){
+	
+	int arr[9];
+	int i;
+	 for(i=1;i<=9;i++){
+	 	printf("enter elements :");
+		scanf("\n %d",&arr[i]);
+	 }
+	 printf("reverse order is");
+	 for(i=9;i>=1;i--){
+	 	printf("\n %d",arr[i]);
+	 }
+	
+	 return 0;
+}
