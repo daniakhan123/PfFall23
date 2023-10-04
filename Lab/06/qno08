@@ -1,16 +1,17 @@
 #include<stdio.h>
 int main(){
 	
-	int arr[9];
+	int arr[100],size;
 	int i;
-	 for(i=1;i<=9;i++){
+	printf("enter size of array :");
+	scanf("%d",&size);
+	 for(i=1;i<=size;i++){
 	 	printf("enter elements :");
 		scanf("\n %d",&arr[i]);
 	 }
 	 printf("reverse order is");
-	 for(i=9;i>=1;i--){
+	 for(i=size;i>=1;i--){
 	 	printf("\n %d",arr[i]);
 	 }
-	
 	 return 0;
 }
