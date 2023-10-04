@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main(){
+	
+	int arr[9],sum=0;
+	int i;
+	for(i=1;i<=9;i++){
+		printf("enter elements :");
+		scanf("%d",&arr[i]);
+		sum = arr[i]+sum;
+	}//end for loop
+	printf("\n Sum of elements are : %d",sum);
+	
+	return 0;
+}//end main
