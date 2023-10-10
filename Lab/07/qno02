@@ -1,3 +1,7 @@
+///Programmer: Dania Khan
+///Date: 10-oct-2023
+/// Description : rotation of array
+
 #include <stdio.h>
 
 int main() {
