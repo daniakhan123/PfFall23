@@ -24,22 +24,22 @@ int main(){
 			for(i=0;i<N;i++){
 		printf("\nenter elemts of an long long int array: ");
 		scanf("%lld ",&arr3[i]);
-		arr3[N]=
+		arr3[N];
 		
 	
 	}
 		for(i=0;i<N;i++){
 		printf("\nelemts of an int array : ");
-		printf("%d",arr[i]);}
+		printf("%d",*(arr+i),arr+i);}
 			for(i=0;i<N;i++){
 		printf("\nelemts of an char array : ");
-		printf("%c",arr2[i]);}
-			for(i=0;i<N;i++){		printf("\nelemts of an long long int array : ");
-		printf("%lld",arr3[i]);
+		printf("\t%c ",*(arr2+i),(arr2+i));}
+			for(i=0;i<N;i++){	
+				printf("\nelemts of an long long int array : ");
+		printf("\t%lld",*(arr3+i),(arr3+i));
 	
 	}
-	
-	
+		
 	return 0;
 	
-	}
+
