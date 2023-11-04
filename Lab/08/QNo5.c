@@ -1,42 +1,28 @@
+//programmer dania khan
+// decsription function for car usage in a week
+
 #include <stdio.h>
-void decideCarUsage(int a, int b);
+#include <stdbool.h>
+
+int decidecarusage(int n, int week) {
+    if (n % 2 == 0 && week % 2 == 0) {
+        return 1;
+    } else {
+        return 0;
+    }
+}
 
 int main() {
-int a,b;
-printf("enter car number: ");
-scanf("%d",&a);
-printf("enter day number of week: ");
-scanf("%d",&b);
- decideCarUsage(a,b);
-return 0;
+    int n, week;
 
+    printf("Enter the number of cars: ");
+    scanf("%d", &n);
+    printf("Enter the day in the week: ");
+    scanf("%d", &week);
 
-}
+    int carInUse = decidecarusage(n, week);
 
+    printf("%d\n",carInUse);
 
-void decideCarUsage(int a, int b){
-    int flag;
-    int flag1;
-if(a%2) {
-    flag =1;
-}
-else {
-    flag =0;
-}
-if(b%2) {
-    flag1 =1;
-}
-else {
-    flag1 =0;
-}
-
-if(flag==flag1) {
-    printf("1");
-   
-}
-else {
-    printf("0");
-}
-return ;
-
+    return 0;
 }
