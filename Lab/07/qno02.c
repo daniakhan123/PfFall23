@@ -4,24 +4,43 @@
 
 #include <stdio.h>
 
-int main() {
-    int N, d;
-    printf("Enter the size of the array: ");
-    scanf("%d", &N);
+void rotate_left(int arr[], int n, int integer) {
+    for (int r = 0; r < integer; r++) {
+        int temp = arr[0];
+        for (int i = 0; i < n - 1; i++) {
+            arr[i] = arr[i + 1];
+        }
+        arr[n - 1] = temp;
+    }
+}
 
-    int arr[N];
-    printf("Enter the elements of the array: ");
-    for (int i = 0; i < N; i++) {
+int main() {
+    int n, integer;
+
+    printf("Enter array size: ");
+    scanf("%d", &n);
+
+    printf("Enter the number of rotations: ");
+    scanf("%d", &integer);
+
+    int arr[n];
+
+    for (int i = 0; i < n; i++) {
+        printf("Enter element %d: ", i + 1);
         scanf("%d", &arr[i]);
     }
 
-    printf("Enter the number of positions to rotate left by: ");
-    scanf("%d", &d);
+    printf("Original Array:\n");
+    for (int i = 0; i < n; i++) {
+        printf("%d ", arr[i]);
+    }
+    printf("\n");
 
-    
-    d %= N;  
-    for (int i = 0; i < N; i++) {
-        printf("%d ", arr[(i + d) % N]);
+    rotate_left(arr, n, integer);
+
+    printf("Array after %d left rotations:\n", integer);
+    for (int i = 0; i < n; i++) {
+        printf("%d ", arr[i]);
     }
 
     return 0;
