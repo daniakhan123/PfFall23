@@ -2,7 +2,6 @@
 //programmer:Dania Khan
 //date: 29/10/23
 //desc: submatrix
-#include <stdio.h>
 
 #include <stdio.h>
 
