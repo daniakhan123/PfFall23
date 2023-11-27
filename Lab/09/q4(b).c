@@ -1,23 +1,23 @@
 // programmer dania khan
 // dec printing fibonacci series using recursion
 
+
 #include<stdio.h>
+int fibo(int n){
 
-void fibo(int n, int i, int j) {
-    if (n > 0) {
-        int k = i + j;
-        printf("%d ", k);
-        fibo(n - 1, j, k); 
+    if(n==1 || n==2 ){
+        return 1;
     }
+    return fibo(n-1) + fibo(n-2); 
 }
+int main(){
 
-int main() {
-    int a = 7;
+    int a ;
+    printf("enter number of terms of fibonacci series : ");
+    scanf("%d",&a);
 
-    int i = 0, j = 1;
-    printf("Fibonacci series up to %d terms: ", a);  
-    printf("%d %d ", i, j);
-    fibo(a - 2, i, j);
+    int p = fibo(a);
+    printf("%d",p);
 
     return 0;
 }
