@@ -3,24 +3,23 @@
 //desc : finding factorial through recusrion
 
 #include<stdio.h>
+
 int fact(int a){
-    int b ;
-    if(a==1){
-        return ;
-    }
-
-    else{
-        b = a* fact(a-1);
-        return b;
+    if(a == 0 || a == 1){
+        return 1;
+    } else {
+        return a * fact(a-1);
     }
 }
+
 int main(){
+    int n;
+    printf("Enter any number: ");
+    scanf("%d", &n);
 
-    int n  ;
-    printf("enter any number : ");
-    scanf("%d",&n);
+    int result = fact(n);
+    printf("Factorial of %d is %d", n, result);
 
-    n= fact(n);
-    printf("%d",n);
-
+    return 0;
 }
+
