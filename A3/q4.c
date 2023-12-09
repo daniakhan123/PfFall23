@@ -1,4 +1,4 @@
-// [rogrammer Dania Khan 
+// programmer Dania Khan 
 // date 7/12/23
 // decsription : details of the workers having a maximum salary for each department and fetch the department along with the total salaries paid for each of them.
 
